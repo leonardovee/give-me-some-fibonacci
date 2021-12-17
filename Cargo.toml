@@ -1,0 +1,16 @@
+[package]
+name = "give-me-some-fibonacci"
+version = "0.1.0"
+edition = "2021"
+authors = ["Leonardo Vieira <leoveeph@gmail.com>"]
+license = "MIT"
+description = "A tool to help to remember fibonnaci numbers"
+readme = "README.md"
+homepage = "https://github.com/leonardovee/give-me-some-fibonacci"
+repository = "https://github.com/leonardovee/give-me-some-fibonacci"
+keywords = ["fibonacci", "memory", "loss"]
+categories = ["command-line-utilities"]
+
+[lib]
+name = "give_me_some_fibonacci"
+path = "src/lib.rs"
