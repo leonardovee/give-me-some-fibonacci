@@ -1,6 +1,6 @@
 [package]
 name = "give-me-some-fibonacci"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Leonardo Vieira <leoveeph@gmail.com>"]
 license = "MIT"

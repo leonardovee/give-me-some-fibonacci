@@ -12,7 +12,7 @@ To get started using give_me_some_fibonacci, just add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-give-me-some-fibonacci = "0.1.0"
+give-me-some-fibonacci = "0.1.1"
 ```
 And call the package like this:
 ```
