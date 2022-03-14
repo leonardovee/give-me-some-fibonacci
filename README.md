@@ -33,7 +33,7 @@ Give me some fibonacci is built with these features enabled by default:
 
 ### License
 
-Rand is distributed under the terms of the MIT license.
+give-me-some-fibonacci is distributed under the terms of the MIT license.
 
 [LICENSE-MIT](LICENSE-MIT), and
 [COPYRIGHT](COPYRIGHT) for details.
